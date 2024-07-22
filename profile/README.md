@@ -1,6 +1,7 @@
 # Open API를 이용한 차수 자동화 시스템
 ### 해당 프로젝트는 K-Hackathon11 참여 영남 예선 200팀 중 영남 본선 14팀 선정 프로젝트인</br> Dev.OOPS!팀의 Open API를 이용한 차수 자동화 시스템 소개 페이지입니다.
-![image](https://github.com/user-attachments/assets/addf208f-8c83-44b1-9481-4b4d33a5cde3)
+![image](https://github.com/user-attachments/assets/597c2dd1-7133-4c24-8971-e4c8ee0a63e6)
+
 (프로토 타입)
 ## Youtube 소개 영상
 [소개 영상](https://youtu.be/IpPB2t-BAdE)
