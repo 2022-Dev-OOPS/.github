@@ -43,7 +43,8 @@ Dev.OOPS!에서 조사한 기존 기립식 차수 시스템의 문제는 다음�
 
 이에 따라 Dev.OOPS!의 서비스 목적은 Open API를 이용한 차수 자동화 시스템 서비스를 제시한다.
 # 전체 시스템 아키텍처
-![image](https://github.com/user-attachments/assets/929f40f9-b88f-47e8-bbf6-9d1f04c1f8c2)
+![aaaaaaa](https://github.com/user-attachments/assets/ac67a9d0-49fc-471a-b6b4-581a16e60932)
+
 # 서비스 기능
 Dev.OOPS!에서 선정한 서비스 기능들은 다음과 같다.
 #### 1. 공공데이터 포털에서 제공하는 Open API를 이용한 기상 확인
